@@ -3,7 +3,7 @@ body {
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -40px; /*change from -10 to -40px*/
   position: fixed;
